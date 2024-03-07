@@ -1,0 +1,24 @@
+{
+  "utenti": [
+    {
+      "nome": "Bruno",
+      "cognome": "De Vivo",
+      "sesso": "M"
+    },
+    {
+      "nome": "Paola",
+      "cognome": "Gentile",
+      "sesso": "F"
+    },
+    {
+      "nome": "Delio",
+      "cognome": "Errosa",
+      "sesso": "M"
+    },
+    {
+      "nome": "Alessandro",
+      "cognome": "Perchiazzi",
+      "sesso": "M"
+    }
+  ]
+}
