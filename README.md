@@ -1,6 +1,7 @@
 # it-ibm-stage
 
 # Esercizio 
+1) Eseguire un fork del repository in oggetto 
 1) Creare un branch denominato feature/NOME_COGNOME ed utilizzarlo per sviluppare
 2) Al fine di far compilare il codice è necessario inserire le dipendenze di seguito
    ```
@@ -30,3 +31,4 @@
 5) Realizzare un main che legge il file user.json dalle resource tramite il metodo getFileFromInternalResources della classe FileUtility. Realizzare un model in java capace di contenere il json letto. Individuare l'utente che ha il nome proprio ed eseguire una conversione in xml dello stesso valorizzando l'attributo eta.
 
 6) Stampare in console il json e l'xml relativi alla propria persona. Il json dovrà contenere l'attributo sesso, mentre l'xml l'attributo eta.
+7) Eseguire una pull request verso il repository in oggetto
