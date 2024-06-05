@@ -1,6 +1,6 @@
 # it-ibm-stage
 
-# Esercizio 07_03_2024
+# Esercizio 
 1) Creare un branch denominato feature/NOME_COGNOME ed utilizzarlo per sviluppare
 2) Al fine di far compilare il codice è necessario inserire le dipendenze di seguito
    ```
