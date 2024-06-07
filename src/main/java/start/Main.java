@@ -13,7 +13,7 @@ public class Main {
 		System.out.println(string);
 		System.out.println("Souzione 2: Prendere i dati Json, trasformarli in Oggetti Java e poi stamparli in XML");
 		StringUtility.fromJson();
-		System.out.println("Soluzione 3: Convertire Oggetti Java in Json e XML"); //per far sì che JSON non rilevi eta inserire transient nella classe Utente
+		System.out.println("Soluzione 3: Convertire Oggetti Java in Json e XML");	//per far sì che JSON non rilevi eta inserire transient nella classe Utente
 		StringUtility.toJson();
 		StringUtility.toXML();
 	}

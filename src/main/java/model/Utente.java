@@ -5,13 +5,13 @@ import java.util.Objects;
 import com.google.gson.annotations.Expose;
 
 public class Utente {
-	@Expose								//@Expose usato per obbligare il suo inserimento in JSON
+	@Expose		//@Expose usato per obbligare il suo inserimento in JSON
 	private String nome;		
 	@Expose
 	private String cognome;
 	@Expose
 	private String sesso;
-	private transient int eta;			//Keyword transient per non inserire questo attributo in JSON
+	private transient int eta;	//Keyword transient per non inserire questo attributo in JSON
 	
 	public Utente(String nome) {
 		this.nome = nome;
