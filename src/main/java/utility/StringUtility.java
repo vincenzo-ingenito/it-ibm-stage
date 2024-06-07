@@ -21,6 +21,7 @@ public class StringUtility{
 	
 	public static String fromXML() {
 		Utente u = new Utente();
+		System.out.println("niente");
 		return "";
 	}
 }
